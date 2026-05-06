@@ -1,13 +1,25 @@
-# exercises
+# md-07-writing — Scholarly writing with Quarto
 
-Exercises for "data science for openwashdata" course offered by [openwashdata](https://openwashdata.org/) academy.
+Companion homework repo for **Module 7** of [CVEN 5999: Special Topics — Data Analytics for Development](https://cven5999-ss26.github.io/website/) (Summer 2026, CU Boulder), focused on scholarly writing with Quarto.
 
-See https://ds4owd-001.github.io/website/ for course website where exercises are used.
+## What's in here
+
+- `scholarly-writing.qmd` — scholarly writing exercise
+- `references.bib` — bibliography
+- `apa.csl` — APA citation style
+
+## How to use
+
+1. Clone into Posit Cloud (workspace linked from the course site).
+2. Open `md-07-writing.Rproj`.
+3. Render `scholarly-writing.qmd` with Quarto.
 
 ## Attribution
 
-Content was re-used from a workshop hosted by [Mine Çetinkaya-Rundel](https://mine-cr.com/) at the 2023 Symposium on Data Science and Statistics and stored at <https://github.com/mine-cetinkaya-rundel/quarto-sdss>. The original content is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Content was re-used from a workshop hosted by [Mine Çetinkaya-Rundel](https://mine-cr.com/) at the 2023 Symposium on Data Science and Statistics, originally at <https://github.com/mine-cetinkaya-rundel/quarto-sdss>. The original content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
---------------------------------------------------------------------------------
+This repo also draws from the [data science for openwashdata](https://ds4owd-001.github.io/website/) academy course offered by [openwashdata](https://openwashdata.org/).
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+## License
+
+[CC BY 4.0](LICENSE.md) — © 2026 Lars Schöbitz
