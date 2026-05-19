@@ -1,6 +1,6 @@
 # md-07-writing — Scholarly writing with Quarto
 
-Companion homework repo for **Module 7** of [CVEN 5999: Special Topics — Data Analytics for Development](https://cven5999-ss26.github.io/website/) (Summer 2026, CU Boulder), focused on scholarly writing with Quarto.
+Companion homework repo focused on scholarly writing with Quarto.
 
 ## What's in here
 
