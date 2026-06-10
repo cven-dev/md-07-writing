@@ -3,7 +3,7 @@ title: "An example scholarly article"
 date: today
 author:
   - name: First Last
-    orcid: 0000-0003-2196-5015
+    orcid: 0000-0000-0000-0000
     email: me@web.org
     affiliation: 
       - name: ETH Zurich

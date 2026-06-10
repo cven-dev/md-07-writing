@@ -1,12 +1,13 @@
-# md-07-writing — Scholarly writing with Quarto
+# md-07-writing - Scholarly writing with Quarto
 
 Companion homework repo focused on scholarly writing with Quarto.
 
 ## What's in here
 
-- `scholarly-writing.qmd` — scholarly writing exercise
-- `references.bib` — bibliography
-- `apa.csl` — APA citation style
+- `scholarly-writing.qmd` - scholarly writing exercise
+- `example-minimal-report.qmd` - a minimal example report (requires the palmerpenguins, ggthemes, and gt packages)
+- `references.bib` - bibliography
+- `apa.csl` - APA citation style
 
 ## How to use
 
@@ -22,4 +23,4 @@ This repo also draws from the [data science for openwashdata](https://ds4owd-001
 
 ## License
 
-[CC BY 4.0](LICENSE.md) — © 2026 Lars Schöbitz
+[CC BY 4.0](LICENSE.md) - © 2026 Lars Schöbitz
